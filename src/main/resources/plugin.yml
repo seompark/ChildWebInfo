@@ -1,0 +1,6 @@
+name: ChildWebInfo
+main: main.java.childhood.webinfo.Main
+version: "1.0-SNAPSHOT"
+api: "1.0.0"
+author: ChildHood
+description: Create Website and show infos
